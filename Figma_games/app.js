@@ -9,7 +9,7 @@ const tImgs = [thImg01, thImg02, thImg03, thImg04, thImg05];
 let bgImg01 = "https://wallpapercave.com/wp/wp1810702.png"
 let bgImg02 = "https://wallpaperaccess.com/full/3037903.jpg"
 let bgImg03 = "https://wallpaperaccess.com/full/158905.jpg"
-let bgImg04 = "https://images.wallpapersden.com/image/download/pubg-season-10_bGpobm6UmZqaraWkpJRmbmdlrWZlbWU.jpg"
+let bgImg04 = "pubg.jpg"
 let bgImg05 = "https://wallpaperaccess.com/full/1470806.jpg"
 
 const bgImgs = [bgImg01, bgImg02, bgImg03, bgImg04, bgImg05]
