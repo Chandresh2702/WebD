@@ -1,0 +1,83 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    opacity: 0.9;
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+}
+
+#navbarSupportedContent {
+    justify-content: flex-end;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(248,237,235, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: #f1faee;
+} 
+
+.nav-item {
+    font-size: 1.25rem;
+}
+
+.dance{
+    font-family: 'Dancing Script', cursive;
+}
+
+.box{
+    background-image: url("https://wallpapercave.com/wp/wp1810702.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transition: all 1.25s ease-out;
+}
+
+#tee {
+    height: 18em;
+}
+
+.progress {
+    height: 0.2em;
+}
+
+.alignP {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 3em;
+}
+
+svg {
+    width: 2.5em;
+    height: 2.5em;
+}
+
+img {
+    object-fit: cover;
+    height: 15em;
+    transition: all 0.20s ease-out;
+}
+
+h1 {
+    opacity: 1;
+    transition: all 0.20s ease-in;
+}
+
+p{
+    opacity: 1;
+    transition: all 0.20s ease-out;
+}
+
+.hide {
+    opacity: 0;
+}
+
+#imgContainer{
+    opacity: 1 ;
+    transition: all 0.3s ease-out;
+}
